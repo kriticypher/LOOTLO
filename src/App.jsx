@@ -10,6 +10,7 @@ import Shop from './pages/Shop';
 import ProductDetails from './pages/ProductDetails';
 import Cart from './pages/Cart';
 import Wishlist from './pages/Wishlist';
+import SignUp from './pages/SignUp';
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
                 <Route path="/product/:id" element={<ProductDetails />} />
                 <Route path="/cart" element={<Cart />} />
                 <Route path="/wishlist" element={<Wishlist />} />
+                <Route path="/signup" element={<SignUp />} />
               </Routes>
             </main>
             {/* Simple Footer */}
