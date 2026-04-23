@@ -94,4 +94,52 @@
       "rate": 1.9,
       "count": 100
     }
+  },
+  {
+    "id": 9,
+    "title": "Eureka Forbes Quick Clean DX Vacuum Cleaner",
+    "price": 4199,
+    "description": "Vacuum Cleaner and Blower for Easy Cleaning, 1200-Watt Motor Ensures Powerful Suction, Lightweight Design for Easy Handling",
+    "category": "electronics",
+    "image": "/images/9.jpg",
+    "rating": {
+      "rate": 3.3,
+      "count": 203
+    }
+  },
+  {
+    "id": 10,
+    "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+    "price": 15900,
+    "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores)",
+    "category": "electronics",
+    "image": "/images/10.jpg",
+    "rating": {
+      "rate": 2.9,
+      "count": 470
+    }
+  },
+  {
+    "id": 11,
+    "title": "AMD Ryzen 9 9950X3D Desktop Processor with Integrated Radeon Graphics",
+    "price": 79999,
+    "description": "technologies are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost.",
+    "category": "electronics",
+    "image": "/images/11.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 319
+    }
+  },
+  {
+    "id": 12,
+    "title": "GeForce RTX 5090",
+    "price": 419000,
+    "description": "Expand your gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+    "category": "electronics",
+    "image": "/images/12.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 400
+    }
   }
