@@ -142,4 +142,53 @@
       "rate": 4.8,
       "count": 400
     }
+  },
+  {
+    "id": 13,
+    "title": "Super Wide High Waist Jeans",
+    "price": 2499,
+    "description": "5-pocket jeans in rigid cotton denim that feels firm at first but then softens and loosens with wear. Wide leg with a regular fit from the waist to the hip and an extra-wide cut from the thigh to the hem. High waist with a zip fly and button. Regular length, designed to hit the top of the foot with little or no stacking.",
+    "category": "women's clothing",
+    "image": "/images/13.jpg",
+    "rating": {
+      "rate": 4.9,
+      "count": 85
+    }
+  },
+  {
+    "id": 14,
+    "title": "Oversized T-shirt",
+    "price": 795,
+    "description": "Oversized T-shirt in cotton jersey with a round neckline and gently dropped shoulders.",
+    "category": "women's clothing",
+    "image": "/images/14.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 120
+    }
+  },
+  {
+    "id": 15,
+    "title": "Slingback court shoes",
+    "price": 1129.00,
+    "description": "Slingback court shoes with pointed toes, kitten heels and a heel strap with elastication at one side. Satin linings.",
+    "category": "women's clothing",
+    "image": "/images/15.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 210
+    }
+  },
+  {
+    "id": 16,
+    "title": "Aurelia Designer Leather Handbag",
+    "price": 3500.00,
+    "description": "A luxury tan leather handbag with gold-tone hardware. Elegant and spacious, ideal for adding a touch of class to any outfit.",
+    "category": "women's clothing",
+    "image": "/images/16.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 45
+    }
   }
+]
