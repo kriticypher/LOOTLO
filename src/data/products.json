@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "title": "Skybags Lumous Laptop Backpack",
+    "price": 800,
+    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "category": "men's clothing",
+    "image": "/images/1.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 2,
+    "title": "Mens Casual Premium Slim Fit T-Shirts",
+    "price": 519,
+    "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing.",
+    "category": "men's clothing",
+    "image": "/images/2.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    }
+  },
+  {
+    "id": 3,
+    "title": "Mens Leather Jacket",
+    "price": 1999,
+    "description": "Great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors.",
+    "category": "men's clothing",
+    "image": "/images/3.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 500
+    }
+  },
+  {
+    "id": 4,
+    "title": "Men Smart Easy Wash Cargos Trousers",
+    "price": 1129,
+    "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+    "category": "men's clothing",
+    "image": "/images/4.jpg",
+    "rating": {
+      "rate": 2.1,
+      "count": 430
+    }
+  },
+  {
+    "id": 5,
+    "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "price": 695,
+    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+    "category": "jewelery",
+    "image": "/images/5.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 400
+    }
+  },
+  {
+    "id": 6,
+    "title": "A classic gold gejje AIDGE necklace",
+    "price": 1680,
+    "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+    "category": "jewelery",
+    "image": "/images/6.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 70
+    }
+  },
+  {
+    "id": 7,
+    "title": "Aqua Marine Square Ring with Rhinestones",
+    "price": 799,
+    "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+    "category": "jewelery",
+    "image": "/images/7.jpg",
+    "rating": {
+      "rate": 3,
+      "count": 400
+    }
+  },
+  {
+    "id": 8,
+    "title": "Royal Temple Jhumka Earrings",
+    "price": 499,
+    "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+    "category": "jewelery",
+    "image": "/images/8.jpg",
+    "rating": {
+      "rate": 1.9,
+      "count": 100
+    }
+  },
+  {
+    "id": 9,
+    "title": "Eureka Forbes Quick Clean DX Vacuum Cleaner",
+    "price": 4199,
+    "description": "Vacuum Cleaner and Blower for Easy Cleaning, 1200-Watt Motor Ensures Powerful Suction, Lightweight Design for Easy Handling",
+    "category": "electronics",
+    "image": "/images/9.jpg",
+    "rating": {
+      "rate": 3.3,
+      "count": 203
+    }
+  },
+  {
+    "id": 10,
+    "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+    "price": 15900,
+    "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores)",
+    "category": "electronics",
+    "image": "/images/10.jpg",
+    "rating": {
+      "rate": 2.9,
+      "count": 470
+    }
+  },
+  {
+    "id": 11,
+    "title": "AMD Ryzen 9 9950X3D Desktop Processor with Integrated Radeon Graphics",
+    "price": 79999,
+    "description": "technologies are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost.",
+    "category": "electronics",
+    "image": "/images/11.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 319
+    }
+  },
+  {
+    "id": 12,
+    "title": "GeForce RTX 5090",
+    "price": 419000,
+    "description": "Expand your gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+    "category": "electronics",
+    "image": "/images/12.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 400
+    }
+  },
+  {
+    "id": 13,
+    "title": "Super Wide High Waist Jeans",
+    "price": 2499,
+    "description": "5-pocket jeans in rigid cotton denim that feels firm at first but then softens and loosens with wear. Wide leg with a regular fit from the waist to the hip and an extra-wide cut from the thigh to the hem. High waist with a zip fly and button. Regular length, designed to hit the top of the foot with little or no stacking.",
+    "category": "women's clothing",
+    "image": "/images/13.jpg",
+    "rating": {
+      "rate": 4.9,
+      "count": 85
+    }
+  },
+  {
+    "id": 14,
+    "title": "Oversized T-shirt",
+    "price": 795,
+    "description": "Oversized T-shirt in cotton jersey with a round neckline and gently dropped shoulders.",
+    "category": "women's clothing",
+    "image": "/images/14.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 120
+    }
+  },
+  {
+    "id": 15,
+    "title": "Slingback court shoes",
+    "price": 1129.00,
+    "description": "Slingback court shoes with pointed toes, kitten heels and a heel strap with elastication at one side. Satin linings.",
+    "category": "women's clothing",
+    "image": "/images/15.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 210
+    }
+  },
+  {
+    "id": 16,
+    "title": "Aurelia Designer Leather Handbag",
+    "price": 3500.00,
+    "description": "A luxury tan leather handbag with gold-tone hardware. Elegant and spacious, ideal for adding a touch of class to any outfit.",
+    "category": "women's clothing",
+    "image": "/images/16.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 45
+    }
+  }
+]
