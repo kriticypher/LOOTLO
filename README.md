@@ -1,5 +1,7 @@
 LOOTLO - Minimalist E-Commerce Platform
 
+Deployed link: https://lootlo-zeta.vercel.app/
+
 LOOTLO is a clean, responsive, and lightweight e-commerce web application built using
 React. Designed with minimalism in mind, the platform focuses on a seamless user
 experience, providing a high-fidelity storefront demonstration without the complexity of a
